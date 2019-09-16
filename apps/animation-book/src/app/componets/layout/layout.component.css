@@ -1,0 +1,14 @@
+:host {
+  display: grid;
+  grid-template-columns: 300px auto;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+aside {
+  background-color: #96D9FF;
+}
+
+section {
+  background-color: grey;
+}
